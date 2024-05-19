@@ -1,7 +1,7 @@
 {
   "name": "ghulam_akber_number_guessing_game",
-  "version": "2.2.2",
-  "description": "added some feature and chalk",
+  "version": "2.2.4",
+  "description": "change of console",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",

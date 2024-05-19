@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 let randomNumber = Math.floor(Math.random() * 100 + 1);
-console.log(chalk.bgYellow(chalk.black(`WELCOME TO NUMBER GUESSING GAME`)));
+console.log(chalk.bgYellow(chalk.black(`\tWELCOME TO NUMBER GUESSING GAME`)));
 let condition = true;
 let chance = 0;
 while (condition) {
